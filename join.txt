@@ -1,0 +1,25 @@
+
+X:				Y:
+(10,100,xyz)			(18,10000)
+(18,250,abc)			(15,15000)
+(08,300,rsp)			(5,2800)
+(15,200,www)			(28,1800)
+
+ INNER JOIN
+ 
+OUTPUT
+
+ 
+
+? LEFT OUTER JOIN
+ 
+OUTPUT
+ 
+
+? RIGHT OUTER JOIN
+ 
+OUTPUT
+ 
+
+? FULL OUTER JOIN
+ 
